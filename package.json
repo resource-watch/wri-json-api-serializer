@@ -1,5 +1,5 @@
 {
-  "name": "json-api-serializer",
+  "name": "wri-json-api-serializer",
   "version": "1.0.0",
   "description": "A library to serialize WRI JSON API",
   "main": "dist/index.js",
